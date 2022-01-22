@@ -129,3 +129,15 @@ class gCode:
                 break
             f.write("\n")
         f.close()
+
+    def popLine(self):
+        pass
+
+    def addLine(self):
+        pass
+
+    def editLine(self):
+        pass
+
+    def addComment(self):
+        pass
